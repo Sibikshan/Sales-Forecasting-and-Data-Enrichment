@@ -10,5 +10,5 @@
     * Catboost
     
  * Methodology
-    I have used upgini for better predicton and in turn i recieved a reduction in error value.A extracted dataset with the help of upgini library gives an lower error rate and higher prediction compared to the normal dataset which was taken from the Kaggle.
+   <p>I have used upgini for better predicton and in turn i recieved a reduction in error value.A extracted dataset with the help of upgini library gives an lower error rate and higher prediction compared to the normal dataset which was taken from the Kaggle.</p>
     
