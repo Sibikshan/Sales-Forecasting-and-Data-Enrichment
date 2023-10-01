@@ -1,4 +1,4 @@
-SalesForecasting-and-Data-Enrichment
+SalesForecastingand-Data-Enrichment
 
 * Description:
   <p>A Machine Learning Project for predicting future sales by knowing the past five years of store item sales data within ten different stores.</p>
